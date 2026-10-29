@@ -115,6 +115,14 @@ const App = () => {
         </div>
       </section>
 
+      {/* Biz haqimizda Section */}
+      <section className="about-section" id="about">
+        <div className="about-content">
+          <h2>Biz Haqimizda</h2>
+          <p>LuxeDrive — bu shunchaki avtomobil ijarasi xizmati emas, balki sizning qulayligingiz va xavfsizligingizni ta'minlaydigan ishonchli hamkor. Biz mijozlarimizga eng so'nggi rusumdagi, mukammal holatdagi sport va premium avtomobillarni eng qulay shartlarda taklif etamiz.</p>
+        </div>
+      </section>
+
       {/* Fleet Section */}
       <section className="fleet-section" id="fleet">
         <div className="section-title">

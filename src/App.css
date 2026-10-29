@@ -148,6 +148,33 @@ body {
   background: #2563eb;
 }
 
+/* About Section */
+.about-section {
+  padding: 80px 8%;
+  background: #11161d;
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-content h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.about-content p {
+  color: #94a3b8;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
 /* Fleet Section */
 .fleet-section {
   padding: 80px 8%;
